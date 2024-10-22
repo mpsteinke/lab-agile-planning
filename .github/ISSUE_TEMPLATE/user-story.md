@@ -8,14 +8,14 @@ assignees: ''
 ---
 ### REQUEST: 
 
-**As a** [role]**,** 
+**As a** [role]
 **I need** [function]
-**so that** [benefit/why]**.**
+**so that** [benefit/why]
 
 ### Details and Assumptions:
 * [document what you know]
 
  ### Acceptance Criteria:
-**Given** [some context/baseline]**,** 
-**when** [certain action is taken]**,**
-**then** [the out come of action is observed]**.**
+**Given** [some context/baseline]
+**when** [certain action is taken]
+**then** [the out come of action is observed]
