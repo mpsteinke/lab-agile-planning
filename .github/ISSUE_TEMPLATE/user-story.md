@@ -14,7 +14,7 @@ assignees: ''
 ### Details and Assumptions:
 * [document what you know]
 
- ### Acceptance Criteria
+ ### Acceptance Criteria:
 Given [some context/baseline]
 When [certain action is taken]
 Then [the out come of action is observed]
