@@ -15,6 +15,6 @@ assignees: ''
 * [document what you know]
 
  ### Acceptance Criteria:
-* Given [some context/baseline]
-* When [certain action is taken]
-* Then [the out come of action is observed]
+**Given** [some context/baseline] **,** 
+**when** [certain action is taken]
+**then** [the out come of action is observed]
